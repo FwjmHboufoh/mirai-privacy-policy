@@ -5,4 +5,4 @@ This repository hosts the public Privacy Policy page for the Mirai Kuriyama Disc
 Privacy Policy:
 https://fwjmhboufoh.github.io/mirai-privacy-policy/
 
-Created by Evil.
+Created by Evil
