@@ -1,0 +1,1 @@
+# mirai-privacy-policy
